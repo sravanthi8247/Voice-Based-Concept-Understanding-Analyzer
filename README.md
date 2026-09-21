@@ -102,7 +102,7 @@ git clone https://github.com/Varshini-chepuri/Voice-Based-Concept-Understanding-
 ### Navigate to the project
 
 ```bash
-cd Voice-Based-Concept-Understanding-Analyzer
+cd Voice-Based-Concept-Understanding-Analyzer/Source_Code
 ```
 
 ### Install dependencies
@@ -115,9 +115,7 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
-```
-
----
+```---
 
 ## 🎯 Workflow
 
