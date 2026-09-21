@@ -96,7 +96,7 @@ Voice-Based Concept Understanding Analyzer
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Varshini-chepuri/Voice-Based-Concept-Understanding-Analyzer.git
+git clone https://github.com/sravanthi8247/Voice-Based-Concept-Understanding-Analyzer.git
 ```
 
 ### Navigate to the project
@@ -240,7 +240,7 @@ Computer Science and Engineering
 
 ## 👨‍💻 Developed By
 
-**Varshini chepuri**
+**Sravanthi**
 
 B.Tech Computer Science & Engineering 
 
