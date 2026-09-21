@@ -239,7 +239,7 @@ class PDFReport:
 
         audio_table = Table([
 
-            ["
+            ["Metric", "Result"],
 
             ["Duration",f"{features.get('duration', 'N/A')} sec"],
 
